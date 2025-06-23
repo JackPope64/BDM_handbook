@@ -9,6 +9,12 @@ body {
   background: #000080;
 }
 
+ul {
+  list-style-type: none; /* Removes the bullets */
+  padding: 0; /* Optional: Removes default padding */
+  margin: 0; /* Optional: Removes default margin */
+}
+
 div {
   background: #fff;
 }
